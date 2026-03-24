@@ -1,9 +1,11 @@
 class MyLinkedList {
     class Node{
         int val;
+        Node prev;
         Node next;
         Node(int val){
             this.val=val;
+            prev=null;
             next=null;
         }
     }
@@ -13,7 +15,6 @@ class MyLinkedList {
         head=tail=null;
         cnt=0;
     }
-    
     public int get(int index) {
         if(index<0 || index>=cnt)
             return -1;
@@ -31,6 +32,7 @@ class MyLinkedList {
             head=tail=nn;
         }else{
             nn.next=head;
+            head.prev=nn;
             head=nn;
         }
         cnt+=1;
@@ -43,6 +45,7 @@ class MyLinkedList {
             head=tail=nn;
         }else{
             tail.next=nn;
+            nn.prev=tail;
             tail=nn;
         }
         cnt+=1;
@@ -53,20 +56,22 @@ class MyLinkedList {
     if (index<0 || index>cnt) return;
     if (index == 0) {
         addAtHead(val);
-        return;
     }
-    if (index == cnt) {
+    else if(index==cnt){
         addAtTail(val);
-        return;
-    }
-    Node nn = new Node(val);
+       
+    }else{
     Node temp = head;
+    Node nn=new Node(val);
     for (int i=0;i<index-1;i++) {
         temp = temp.next;
     }
+    nn.prev=temp;
     nn.next = temp.next;
     temp.next = nn;
-    cnt++;
+    nn.next.prev=nn;
+    cnt+=1;
+    }
 }
     public void deleteAtIndex(int index) {
         if(index<0 || index>=cnt){
@@ -74,19 +79,32 @@ class MyLinkedList {
         }
         if(index==0){
             head=head.next;
-            if(head==null)
+            if(head==null){
                 tail=null;
+                }
+            else{
+            head.prev=null;
+            }
             cnt-=1;
-        }else{
+            }
+            else if(index==cnt-1){
+            tail=tail.prev;
+            if(tail==null){
+                head=null;
+            }else{
+                tail.next=null;
+            }
+            cnt-=1;
+        }
+        else{
             Node temp=head;
             for(int i=0;i<index-1;i++){
                 temp=temp.next;
+
             }
             temp.next=temp.next.next;
+            temp.next.prev=temp;
             cnt-=1;
-            if(temp.next==null){
-                tail=temp;
-            }
         }
     }
 }
