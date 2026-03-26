@@ -10,6 +10,7 @@
 | [0682-baseball-game](https://github.com/HarsiniGS/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0901-online-stock-span](https://github.com/HarsiniGS/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/HarsiniGS/LeetCode/tree/main/1472-design-browser-history/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/HarsiniGS/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@
 | [0225-implement-stack-using-queues](https://github.com/HarsiniGS/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/HarsiniGS/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/HarsiniGS/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/HarsiniGS/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +69,7 @@
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/HarsiniGS/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/HarsiniGS/LeetCode/tree/main/1472-design-browser-history/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/HarsiniGS/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +78,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/HarsiniGS/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/HarsiniGS/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
