@@ -65,10 +65,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarsiniGS/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0217-contains-duplicate](https://github.com/HarsiniGS/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/HarsiniGS/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0217-contains-duplicate](https://github.com/HarsiniGS/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/HarsiniGS/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0682-baseball-game](https://github.com/HarsiniGS/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/HarsiniGS/LeetCode/tree/main/1472-design-browser-history/) | Medium |
@@ -95,4 +97,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/HarsiniGS/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/HarsiniGS/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
