@@ -64,11 +64,13 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/HarsiniGS/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarsiniGS/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/HarsiniGS/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/HarsiniGS/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0051-n-queens](https://github.com/HarsiniGS/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/HarsiniGS/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarsiniGS/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
