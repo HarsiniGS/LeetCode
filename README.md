@@ -70,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/HarsiniGS/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/HarsiniGS/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/HarsiniGS/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/HarsiniGS/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0682-baseball-game](https://github.com/HarsiniGS/LeetCode/tree/main/0682-baseball-game/) | Easy |
@@ -97,8 +98,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/HarsiniGS/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/HarsiniGS/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/HarsiniGS/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/HarsiniGS/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
