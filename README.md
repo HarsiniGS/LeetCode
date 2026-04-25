@@ -114,4 +114,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/HarsiniGS/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2843-count-symmetric-integers](https://github.com/HarsiniGS/LeetCode/tree/main/2843-count-symmetric-integers/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2843-count-symmetric-integers](https://github.com/HarsiniGS/LeetCode/tree/main/2843-count-symmetric-integers/) | Easy |
 <!---LeetCode Topics End-->
