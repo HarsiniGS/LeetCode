@@ -72,6 +72,7 @@
 | [0001-two-sum](https://github.com/HarsiniGS/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarsiniGS/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/HarsiniGS/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/HarsiniGS/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/HarsiniGS/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HarsiniGS/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Array
@@ -113,6 +114,7 @@
 | [0010-regular-expression-matching](https://github.com/HarsiniGS/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/HarsiniGS/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0344-reverse-string](https://github.com/HarsiniGS/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/HarsiniGS/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +160,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarsiniGS/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/HarsiniGS/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
