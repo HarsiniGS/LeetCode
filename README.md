@@ -60,6 +60,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/HarsiniGS/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/HarsiniGS/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/HarsiniGS/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Hash Table
@@ -98,10 +99,12 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/HarsiniGS/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/HarsiniGS/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/HarsiniGS/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/HarsiniGS/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/HarsiniGS/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarsiniGS/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
