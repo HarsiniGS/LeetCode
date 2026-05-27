@@ -42,6 +42,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/HarsiniGS/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/HarsiniGS/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/HarsiniGS/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0146-lru-cache](https://github.com/HarsiniGS/LeetCode/tree/main/0146-lru-cache/) | Medium |
@@ -67,6 +68,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/HarsiniGS/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/HarsiniGS/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/HarsiniGS/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/HarsiniGS/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -149,6 +151,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/HarsiniGS/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [2843-count-symmetric-integers](https://github.com/HarsiniGS/LeetCode/tree/main/2843-count-symmetric-integers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
