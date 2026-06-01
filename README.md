@@ -235,4 +235,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/HarsiniGS/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/HarsiniGS/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
