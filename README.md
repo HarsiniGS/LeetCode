@@ -135,6 +135,7 @@
 | [0010-regular-expression-matching](https://github.com/HarsiniGS/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/HarsiniGS/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/HarsiniGS/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/HarsiniGS/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarsiniGS/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0322-coin-change](https://github.com/HarsiniGS/LeetCode/tree/main/0322-coin-change/) | Medium |
 ## Sorting
@@ -155,6 +156,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/HarsiniGS/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0062-unique-paths](https://github.com/HarsiniGS/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [2843-count-symmetric-integers](https://github.com/HarsiniGS/LeetCode/tree/main/2843-count-symmetric-integers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -219,4 +221,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1791-find-center-of-star-graph](https://github.com/HarsiniGS/LeetCode/tree/main/1791-find-center-of-star-graph/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/HarsiniGS/LeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
