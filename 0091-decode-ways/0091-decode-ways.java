@@ -10,8 +10,7 @@ class Solution {
                 curr += prev1;
             }
 
-            int two = (s.charAt(i - 2) - '0') * 10
-                    + (s.charAt(i - 1) - '0');
+            int two = (s.charAt(i - 2) - '0') * 10 + (s.charAt(i - 1) - '0');
 
             if (two >= 10 && two <= 26) {
                 curr += prev2;
