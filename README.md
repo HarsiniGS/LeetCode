@@ -129,6 +129,7 @@
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/HarsiniGS/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/HarsiniGS/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0072-edit-distance](https://github.com/HarsiniGS/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/HarsiniGS/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0344-reverse-string](https://github.com/HarsiniGS/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarsiniGS/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -142,6 +143,7 @@
 | [0053-maximum-subarray](https://github.com/HarsiniGS/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/HarsiniGS/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/HarsiniGS/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0072-edit-distance](https://github.com/HarsiniGS/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/HarsiniGS/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarsiniGS/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/HarsiniGS/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
