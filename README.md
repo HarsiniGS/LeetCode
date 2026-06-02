@@ -132,6 +132,7 @@
 | [0344-reverse-string](https://github.com/HarsiniGS/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarsiniGS/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/HarsiniGS/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/HarsiniGS/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/HarsiniGS/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/HarsiniGS/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/HarsiniGS/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/HarsiniGS/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
