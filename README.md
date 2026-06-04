@@ -7,6 +7,7 @@
 | [0225-implement-stack-using-queues](https://github.com/HarsiniGS/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/HarsiniGS/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/HarsiniGS/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/HarsiniGS/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/HarsiniGS/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0901-online-stock-span](https://github.com/HarsiniGS/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/HarsiniGS/LeetCode/tree/main/1472-design-browser-history/) | Medium |
@@ -24,6 +25,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/HarsiniGS/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/HarsiniGS/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -80,6 +82,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/HarsiniGS/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/HarsiniGS/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarsiniGS/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/HarsiniGS/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/HarsiniGS/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HarsiniGS/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Array
@@ -99,6 +102,7 @@
 | [0283-move-zeroes](https://github.com/HarsiniGS/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/HarsiniGS/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/HarsiniGS/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0496-next-greater-element-i](https://github.com/HarsiniGS/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/HarsiniGS/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/HarsiniGS/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/HarsiniGS/LeetCode/tree/main/0682-baseball-game/) | Easy |
