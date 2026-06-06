@@ -187,6 +187,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/HarsiniGS/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/HarsiniGS/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0319-bulb-switcher](https://github.com/HarsiniGS/LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 | [2843-count-symmetric-integers](https://github.com/HarsiniGS/LeetCode/tree/main/2843-count-symmetric-integers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -269,4 +270,8 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/HarsiniGS/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/HarsiniGS/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/HarsiniGS/LeetCode/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
