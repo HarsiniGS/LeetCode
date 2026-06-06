@@ -4,6 +4,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/HarsiniGS/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/HarsiniGS/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/HarsiniGS/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/HarsiniGS/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -26,6 +27,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/HarsiniGS/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/HarsiniGS/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/HarsiniGS/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/HarsiniGS/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -63,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/HarsiniGS/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/HarsiniGS/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/HarsiniGS/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/HarsiniGS/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarsiniGS/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -96,6 +99,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HarsiniGS/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/HarsiniGS/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/HarsiniGS/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/HarsiniGS/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/HarsiniGS/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/HarsiniGS/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -153,6 +157,7 @@
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/HarsiniGS/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/HarsiniGS/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/HarsiniGS/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/HarsiniGS/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/HarsiniGS/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/HarsiniGS/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
