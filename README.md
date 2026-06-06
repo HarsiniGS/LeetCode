@@ -123,6 +123,7 @@
 | [1046-last-stone-weight](https://github.com/HarsiniGS/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/HarsiniGS/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/HarsiniGS/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/HarsiniGS/LeetCode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HarsiniGS/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -199,6 +200,7 @@
 | [0238-product-of-array-except-self](https://github.com/HarsiniGS/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/HarsiniGS/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/HarsiniGS/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/HarsiniGS/LeetCode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +254,7 @@
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/HarsiniGS/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/HarsiniGS/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/HarsiniGS/LeetCode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
