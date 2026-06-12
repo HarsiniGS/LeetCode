@@ -275,6 +275,7 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/HarsiniGS/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/HarsiniGS/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
+| [1978-employees-whose-manager-left-the-company](https://github.com/HarsiniGS/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
