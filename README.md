@@ -276,6 +276,7 @@
 | [0175-combine-two-tables](https://github.com/HarsiniGS/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/HarsiniGS/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/HarsiniGS/LeetCode/tree/main/0177-nth-highest-salary/) | Medium |
+| [0595-big-countries](https://github.com/HarsiniGS/LeetCode/tree/main/0595-big-countries/) | Easy |
 | [0626-exchange-seats](https://github.com/HarsiniGS/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [1148-article-views-i](https://github.com/HarsiniGS/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/HarsiniGS/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
