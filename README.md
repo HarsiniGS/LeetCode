@@ -277,6 +277,7 @@
 | [0176-second-highest-salary](https://github.com/HarsiniGS/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/HarsiniGS/LeetCode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0626-exchange-seats](https://github.com/HarsiniGS/LeetCode/tree/main/0626-exchange-seats/) | Medium |
+| [1757-recyclable-and-low-fat-products](https://github.com/HarsiniGS/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/HarsiniGS/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
