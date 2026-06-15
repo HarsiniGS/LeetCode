@@ -282,6 +282,7 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/HarsiniGS/LeetCode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/HarsiniGS/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/HarsiniGS/LeetCode/tree/main/1148-article-views-i/) | Easy |
+| [1280-students-and-examinations](https://github.com/HarsiniGS/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/HarsiniGS/LeetCode/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/HarsiniGS/LeetCode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HarsiniGS/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
