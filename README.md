@@ -94,6 +94,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarsiniGS/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/HarsiniGS/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/HarsiniGS/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarsiniGS/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HarsiniGS/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarsiniGS/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/HarsiniGS/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/HarsiniGS/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarsiniGS/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HarsiniGS/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -222,6 +224,7 @@
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarsiniGS/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/HarsiniGS/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarsiniGS/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HarsiniGS/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
