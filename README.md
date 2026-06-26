@@ -313,6 +313,7 @@
 | [1280-students-and-examinations](https://github.com/HarsiniGS/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/HarsiniGS/LeetCode/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/HarsiniGS/LeetCode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1341-movie-rating](https://github.com/HarsiniGS/LeetCode/tree/main/1341-movie-rating/) | Medium |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HarsiniGS/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/HarsiniGS/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/HarsiniGS/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
